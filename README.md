@@ -1,126 +1,43 @@
-<h1 align="center">
-  <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
-  <br>
-  Markdownify
-  <br>
-</h1>
-
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
-
+  <h3 align="center">
+  Welcome to Code White's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;center=true&amp;vCenter=true&amp;lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
 </p>
-
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
-</p>
-
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-
-## Key Features
-
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
-
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
-
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-## Credits
-
-This software uses the following open source packages:
-
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
-
-## Related
-
-[Try Web version of Markdownify](https://notepad.js.org/markdown-editor/)
-
-## Support
-
-<a href="https://buymeacoffee.com/amitmerchant" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
-
-## License
-
-MIT
-
----
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
-
+<hr>
+<div align="center">
+<h1 id="about-me">💫About Me :</h1>
+<p>🔭 I’m currently working on my github page : <a href="https://codewhiteweb.cf">https://codewhiteweb.cf</a></p>
+<p>🌱 I’m currently learning : Node.js</p>
+<p>👯 I’m looking to collaborate on my webpage</p>
+<p>🤔 I’m Not looking for help</p>
+<p>💬 Ask me about for any help</p>
+<p>📫 How to reach me:<br>
+Mail me at “<a href="mailto:web.codewhite@gmail.com">web.codewhite@gmail.com</a>” or
+scroll to bottom of the page of “<a href="https://codewhiteweb.cf">https://codewhiteweb.cf</a>” and find CONTACT ME</p>
+<p>⚡ Fun fact: 7 out of 10 consumers find a company via the blog</p>
+<h2 id="socials">🌐Socials</h2>
+<p><a href="https://medium.com/@CodeWhiteWeb"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&amp;logoColor=white" alt="Medium"></a> <a href="https://reddit.com/user/CodeWhiteWeb"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" alt="Reddit"></a> <a href="https://twitch.tv/code_white_web"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&amp;logoColor=white" alt="Twitch"></a> <a href="https://youtube.com/c/CodeWhiteWeb"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&amp;logoColor=white" alt="YouTube"></a></p>
+<h1 id="tech-stack">💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h1>
+<p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="Heroku"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"> <img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&amp;logo=glitch&amp;logoColor=white" alt="Glitch"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&amp;logo=pug&amp;logoColor=A86454" alt="Pug"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS"> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=white" alt="Yarn"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=white" alt="Adobe Illustrator"> <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></p>
+<h1 id="github-stats">📊GitHub Stats :</h1>
+<p><img src="https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&amp;theme=radical&amp;hide_border=false" alt=""><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
+<h2 id="github-trophies">🏆GitHub Trophies</h2>
+<p><img src="https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&amp;theme=discord&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
+<h3 id="-latest-blog-posts">📕 Latest Blog Posts</h3>
+<!-- BLOG-POST-LIST:START -->
+<p><a href="https://dev.to/codewhiteweb/10-must-have-3rd-party-services-for-all-websites-584m">10 must have 3rd party services for all websites</a></p>
+<p><a href="https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k">Best Google Fonts for your website</a></p>
+<!-- BLOG-POST-LIST:END -->
+<p>➡️ <a href="https://dev.to/codewhiteweb">more blog posts…</a></p>
+<h3 id="️random-dev-quote">✍️Random Dev Quote</h3>
+<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=merko" alt=""></p>
+<hr>
+<h2 id=""><img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" alt="">
+<img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="">
+<img src="https://forthebadge.com/images/badges/uses-brains.svg" alt=""></h2>
+<p><img src="https://komarev.com/ghpvc/?username=CodeWhiteWeb&amp;label=Visitors+Count&amp;color=brightgreen" alt=""></p>
+</div> 
